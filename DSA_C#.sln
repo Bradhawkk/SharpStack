@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DynamicPrograms", "DynamicPrograms", "{5868366D-6E08-4ED6-8A89-471CF233BCB4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1.ReverseString", "1.ReverseString\1.ReverseString.csproj", "{88B7D74C-1F0F-486A-AA05-4DB572E7FDF7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataStructures", "DataStructures", "{D9D591AC-ED74-47B5-A479-B2469E6EB430}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Algorithms", "Algorithms", "{7FAEA0B8-AD98-4998-8F4F-1D86EB19BFB2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Array", "Array", "{A3748092-DD96-4A21-BC06-9DF2BC01E14E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LinkedList", "LinkedList", "{3C772873-7E51-4ECC-B842-6B82E7DEA23F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dictionary", "Dictionary", "{AC3A8507-397E-4A48-A45A-96862D2F0B00}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Hashset", "Hashset", "{4C8732C7-1023-4E9F-93BC-634F5469F862}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TwoPointers", "TwoPointers", "{CD27FDD1-22FB-48F3-9BFC-91625B9B9456}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SlidingWindow", "SlidingWindow", "{42257E08-6A83-4450-9B48-E83D15357AC0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sorting", "Sorting", "{8F855FDC-F8CF-4285-814A-7C7FE4EA8C34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88B7D74C-1F0F-486A-AA05-4DB572E7FDF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88B7D74C-1F0F-486A-AA05-4DB572E7FDF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88B7D74C-1F0F-486A-AA05-4DB572E7FDF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88B7D74C-1F0F-486A-AA05-4DB572E7FDF7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{88B7D74C-1F0F-486A-AA05-4DB572E7FDF7} = {5868366D-6E08-4ED6-8A89-471CF233BCB4}
+		{A3748092-DD96-4A21-BC06-9DF2BC01E14E} = {D9D591AC-ED74-47B5-A479-B2469E6EB430}
+		{3C772873-7E51-4ECC-B842-6B82E7DEA23F} = {D9D591AC-ED74-47B5-A479-B2469E6EB430}
+		{AC3A8507-397E-4A48-A45A-96862D2F0B00} = {D9D591AC-ED74-47B5-A479-B2469E6EB430}
+		{4C8732C7-1023-4E9F-93BC-634F5469F862} = {D9D591AC-ED74-47B5-A479-B2469E6EB430}
+		{CD27FDD1-22FB-48F3-9BFC-91625B9B9456} = {7FAEA0B8-AD98-4998-8F4F-1D86EB19BFB2}
+		{42257E08-6A83-4450-9B48-E83D15357AC0} = {7FAEA0B8-AD98-4998-8F4F-1D86EB19BFB2}
+		{8F855FDC-F8CF-4285-814A-7C7FE4EA8C34} = {7FAEA0B8-AD98-4998-8F4F-1D86EB19BFB2}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A4A96EF-1356-4141-9A9E-B6DDBB2F4B92}
+	EndGlobalSection
+EndGlobal
